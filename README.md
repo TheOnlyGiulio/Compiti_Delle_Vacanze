@@ -76,8 +76,5 @@ This demo performs a **client-side** request to a third-party geolocation servic
 * Works on any platform that supports Next.js static output or Node hosting (e.g., Vercel).
 * No environment variables required for the basic demo.
 
-## License
+Code on master branch
 
-MIT (see `LICENSE`).
-
----
